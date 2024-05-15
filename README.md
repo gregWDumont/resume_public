@@ -12,7 +12,7 @@
 
 #### Market Intelligence Lead
 
-*Aug 2022 - Present | Luxembourg**
+#### *Aug 2022 - Present | Luxembourg*
 
 - Directed research operations to study trends and demands in Luxembourg's cybersecurity landscape, collaborating with industry stakeholders, professional organizations, and the public sector.
 - Defined project scope, objectives, and deliverables for the national cybersecurity ecosystem project, working closely with public agency C-level executives.
@@ -22,7 +22,7 @@
 
 #### Ecosystem Development Manager
 
-*Oct 2019 - Aug 2022 | Luxembourg**
+#### *Oct 2019 - Aug 2022 | Luxembourg*
 
 - Defined project scope, objectives, and deliverables for the national cybersecurity ecosystem project, collaborating with key national bodies from private and public sectors.
 - Collected and structured requirements, communicated user stories, and worked with the development team to create open-source solutions.
@@ -32,7 +32,7 @@
 
 #### Public Relations Specialist
 
-*June 2018 - Oct 2019 | Luxembourg**
+#### *June 2018 - Oct 2019 | Luxembourg*
 
 - Managed the national cybersecurity awareness campaign, doubling the number of partners year on year.
 - Worked with a team of three experts in content creation and event organization.
@@ -44,7 +44,7 @@
 
 #### Online Reputation Project Manager
 
-**Feb 2017 - Apr 2018 | Luxembourg**
+#### *Feb 2017 - Apr 2018 | Luxembourg*
 
 - Analyzed data and managed projects to boost brand reputation for clients including Groupe SEB and Pictet.
 
@@ -52,7 +52,7 @@
 
 #### Digital Media Consultant
 
-**Sep 2016 - Jan 2017 | France**
+#### *Sep 2016 - Jan 2017 | France*
 
 - Specialized in online reputation monitoring and content management for high-profile clients like Total and Louis Vuitton.
 
@@ -60,7 +60,7 @@
 
 #### Market Intelligence Analyst
 
-**Oct 2015 - Jun 2016 | France**
+*Oct 2015 - Jun 2016 | France*
 
 - Researched competitive dynamics within the French utility markets.
 
@@ -68,7 +68,7 @@
 
 #### Market Intelligence Analyst
 
-*May 2014 - Oct 2014 | France*
+#### *May 2014 - Oct 2014 | France*
 
 - Analyzed online behavior for tourism sectors and conducted multilingual social media monitoring for high-level political figures.
 
