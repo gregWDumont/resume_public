@@ -54,7 +54,7 @@
 
 *Sep 2016 - Jan 2017 | France*
 
-- Specialized in online reputation monitoring and content management for high-profile clients like Total and Louis Vuitton.
+- Specialized in online reputation monitoring and content management for clients like Total and Louis Vuitton.
 
 ### SUEZ - France
 
