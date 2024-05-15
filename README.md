@@ -12,7 +12,7 @@
 
 #### Market Intelligence Lead
 
-#### *Aug 2022 - Present | Luxembourg*
+*Aug 2022 - Present | Luxembourg*
 
 - Directed research operations to study trends and demands in Luxembourg's cybersecurity landscape, collaborating with industry stakeholders, professional organizations, and the public sector.
 - Defined project scope, objectives, and deliverables for the national cybersecurity ecosystem project, working closely with public agency C-level executives.
@@ -60,7 +60,7 @@
 
 #### Market Intelligence Analyst
 
-*Oct 2015 - Jun 2016 | France*
+#### *Oct 2015 - Jun 2016 | France*
 
 - Researched competitive dynamics within the French utility markets.
 
