@@ -8,7 +8,7 @@
 
 ## Professional Experience
 
-### Luxembourg House of Cybersecurity
+### Luxembourg House of Cybersecurity - Luxembourg
 
 #### Market Intelligence Lead
 
