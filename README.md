@@ -8,7 +8,7 @@
 
 ## Professional Experience
 
-### Luxembourg House of Cybersecurity - Luxembourg
+### Luxembourg House of Cybersecurity
 
 #### Market Intelligence Lead
 
@@ -40,7 +40,7 @@
 - Collaborated and managed relationships with external partners, including suppliers and media.
 - Worked with the CEO to define communications strategy and monitor progress and results.
 
-### Vanksen - Luxembourg
+### Vanksen
 
 #### Online Reputation Project Manager
 
@@ -48,7 +48,7 @@
 
 - Analyzed data and managed projects to boost brand reputation for clients including Groupe SEB and Pictet.
 
-### Burson-Marsteller - France
+### Burson-Marsteller
 
 #### Digital Media Consultant
 
@@ -56,7 +56,7 @@
 
 - Specialized in online reputation monitoring and content management for clients like Total and Louis Vuitton.
 
-### SUEZ - France
+### SUEZ
 
 #### Market Intelligence Analyst
 
@@ -64,7 +64,7 @@
 
 - Researched competitive dynamics within the French utility markets.
 
-### Data Observer - France
+### Data Observer
 
 #### Market Intelligence Analyst
 
