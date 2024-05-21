@@ -48,7 +48,7 @@
 
 - Analyzed data and managed projects to boost brand reputation for clients including Groupe SEB and Pictet.
 
-### Burson-Marsteller
+### Burson-Marsteller i&e
 
 #### Digital Media Consultant
 
