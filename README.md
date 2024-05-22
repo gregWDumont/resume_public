@@ -35,10 +35,10 @@
 *June 2018 - Oct 2019 | Luxembourg*
 
 - Managed the national cybersecurity awareness campaign, doubling the number of partners year on year.
-- Worked with a team of three experts in content creation and event organization.
-- Created content for press releases, interviews, and technical project documentation.
-- Collaborated and managed relationships with external partners, including suppliers and media.
-- Worked with the CEO to define communications strategy and monitor progress and results.
+- Collaborated with a team of three experts in content creation and event organization.
+- Created content for press releases, interviews, online media, website, and technical project documentation.
+- Developed and managed relationships with external partners, including suppliers and media outlets.
+- Worked with the CEO to define the communications strategy and monitor progress and results.
 
 ### Vanksen
 
