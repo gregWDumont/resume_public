@@ -99,8 +99,8 @@
 ## Certifications
 
 - **PECB Certified**
-  - ISO/IEC 27005 Risk Manager
-  - ISO/IEC 27001 Implementer
+  - ISO/IEC 27005 Risk Manager (2024 - 2027)
+  - ISO/IEC 27001 Implementer (2024 - 2027)
 - **freeCodeCamp**
   - Scientific Computing with Python
   - Data Visualization
