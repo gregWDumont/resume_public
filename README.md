@@ -12,7 +12,7 @@
 
 #### Junior Cyber Threat Intelligence Analyst
 
-*Mar 2024 - Present | Luxembourg *
+*Mar 2024 - Present | Luxembourg*
 
 - While retaining my role as Market Intelligence Lead, I made an increasing contribution to technical tasks within the threat observatory platform of the National Cybersecurity Competence Center Luxembourg.
 - Developed Python scripts to analyze open source data (MISP)  and identify cybersecurity threats.
