@@ -10,6 +10,14 @@
 
 ### Luxembourg House of Cybersecurity
 
+#### Junior Cyber Threat Intelligence Analyst
+
+*Mar 2024 - Present | Luxembourg *
+
+- While retaining my role as Market Intelligence Lead, I made an increasing contribution to technical tasks within the threat observatory platform of the National Cybersecurity Competence Center Luxembourg.
+- Developed Python scripts to analyze open source data (MISP)  and identify cybersecurity threats.
+- Automated quarterly bulletin generation for the observatory's website.
+
 #### Market Intelligence Lead
 
 *Aug 2022 - Present | Luxembourg*
