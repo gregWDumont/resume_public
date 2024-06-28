@@ -87,8 +87,8 @@
 - **Luxembourg House of Cybersecurity** (Sep 2022 - Present)
   - Developed user interfaces and contributed to front-end programming and documentation enhancements.
 
-- **NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)** (Participations in 2022 & 2024)
-  - Engaged in international cyber-defense exercises, with roles ranging from technical implementation to strategic communication.
+- **Luxembourg Army** (Participations in 2022 & 2024)
+  - Engaged in international cyber-defense exercises, with roles ranging from Linux Web App to strategic communication.
 
 - **International Committee of the Red Cross** (Jan 2024)
   - Participated in a technical hackathon aimed at enhancing cyber capacity by integrating various open-source technologies.
@@ -97,7 +97,6 @@
 
 ## Education
 
-- **Paris 8 IED** - Bachelor's Degree in Computer Science, Minor in Psychology (2023-2026)
 - **IRIS SUP'** - Master’s Degree in International Strategy Analysis with a specialization in Defence, Security, and Crisis Management (2021-2022)
 - **Université de Bretagne Occidentale** - Master’s Degree in Law, Economics, and Management with a specialization in Safety, Emergency, and Security (2021-2022)
 - **Paris ESLSCA Business School** - Master’s Degree in Strategy and Market Intelligence (2015-2016)
