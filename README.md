@@ -28,6 +28,16 @@
 - Managed key studies on SME challenges, market dynamics, and national workforce development.
 - Skilled in SQL, Python, data visualization, and workflow design.
 
+#### Frontend Developer
+
+*Feb 2023 - Mar 2024 | Luxembourg*
+
+- Developed user interfaces and contributed to front-end programming and documentation enhancements using HTML, CSS, Bootstrap, JavaScript, React, Python, PostgreSQL, and Apache.
+- Implemented responsive design skills to optimize websites for various devices and screen sizes.
+- Worked effectively with designers, back-end developers, and other team members, utilizing Git for version control and collaboration.
+- Engaged in projects such as an E-learning platform, cybersecurity surveys (self-assessment open source repository fork), and an ecosystem management platform.
+- Demonstrated proficiency in debugging and problem-solving.
+
 #### Ecosystem Development Manager
 
 *Oct 2019 - Aug 2022 | Luxembourg*
@@ -83,9 +93,6 @@
 ---
 
 ## Technical Projects
-
-- **Luxembourg House of Cybersecurity** (Sep 2022 - Present)
-  - Developed user interfaces and contributed to front-end programming and documentation enhancements.
 
 - **Luxembourg Army** (Participations in 2022 & 2024)
   - Engaged in international cyber-defense exercises, with roles ranging from Linux Web App to strategic communication.
