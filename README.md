@@ -115,6 +115,7 @@
 - **PECB Certified**
   - ISO/IEC 27005 Risk Manager (2024 - 2027)
   - ISO/IEC 27001 Implementer (2024 - 2027)
+  
 - **freeCodeCamp**
   - Scientific Computing with Python [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/scientific-computing-with-python-v7)
   - Data Visualization [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/data-visualization)
