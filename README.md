@@ -116,8 +116,8 @@
   - ISO/IEC 27005 Risk Manager (2024 - 2027)
   - ISO/IEC 27001 Implementer (2024 - 2027)
 - **freeCodeCamp**
-  - Scientific Computing with Python
-  - Data Visualization
-  - Front End Development Libraries
-  - JavaScript Algorithms and Data Structures
-  - Responsive Web Design
+  - Scientific Computing with Python [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/scientific-computing-with-python-v7)
+  - Data Visualization [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/data-visualization)
+  - Front End Development Libraries [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/front-end-development-libraries)
+  - JavaScript Algorithms and Data Structures [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/javascript-algorithms-and-data-structures)
+  - Responsive Web Design [(View Certificate)](https://freecodecamp.org/certification/GregWDumont/responsive-web-design)
