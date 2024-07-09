@@ -95,7 +95,7 @@
 ## Technical Projects
 
 - **Luxembourg Army** (Participations in 2022 & 2024)
-  - Engaged in international cyber-defense exercises (Cyber Fortress and Locked Shields by NATO), with roles ranging from Linux Web App to strategic communication.
+  - Participated in international cyber-defense exercises, including Cyber Fortress and NATO's Locked Shields, with roles ranging from Linux web application management to incident reporting and strategic communication.
 
 - **International Committee of the Red Cross** (Jan 2024)
   - Participated in a technical hackathon aimed at enhancing cyber capacity by integrating various open-source technologies.
