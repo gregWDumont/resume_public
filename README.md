@@ -1,6 +1,6 @@
 # Gregory Wawszyniak Dumont
 
-**Market Intelligence Lead | Project Manager | Software Developer**
+**Cybersecurity | Market Intelligence | Project Management**
 
 **Location:** Luxembourg | [GitHub](https://github.com/gregWDumont) | [LinkedIn](https://www.linkedin.com/in/gr%C3%A9gory-wawszyniak-dumont-83836680/)
 
