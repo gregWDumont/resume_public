@@ -15,8 +15,9 @@
 *Mar 2024 - Present | Luxembourg*
 
 - While retaining my role as Market Intelligence Lead, I made an increasing contribution to technical tasks within the threat observatory platform of the National Cybersecurity Competence Center Luxembourg.
-- Developed Python scripts to analyze open source data (MISP)  and write analysis on cybersecurity threats.
+- Developed Python scripts for analyzing open-source data from MISP and generating comprehensive cybersecurity threat reports.
 - Automated quarterly bulletin generation for the observatory's website.
+- Generated and added new events to the MISP database through the DISARM framework, maintaining accurate tagging and attribute classification.
 
 #### Market Intelligence Lead
 
