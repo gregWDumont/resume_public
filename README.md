@@ -10,14 +10,14 @@
 
 ### Luxembourg House of Cybersecurity
 
-#### Cyber Threat Intelligence Analyst
+#### Cyber Threat Intelligence Project Manager
 
 *Mar 2024 - Present | Luxembourg*
 
-- While retaining my role as Market Intelligence Lead, I made an increasing contribution to technical tasks within the threat observatory platform of the National Cybersecurity Competence Center Luxembourg.
-- Developed Python scripts for analyzing open-source data from MISP and generating comprehensive cybersecurity threat reports.
-- Automated quarterly bulletin generation for the observatory's website.
-- Generated and added new events to the MISP database through the DISARM framework, maintaining accurate tagging and attribute classification.
+- Continued as Market Intelligence Lead while managing the NC3 Threat Intelligence Platform, collaborating with the CSIRT (CIRCL), head of department, and project technical lead to oversee timelines and resources.
+- Utilized the MISP platform and NACE codes for industry-specific data analysis, focusing on TTPs (Tactics, Techniques, and Procedures) and threat actors.
+- Developed scripts for analyzing MISP data and generating comprehensive cybersecurity threat reports, and automated quarterly bulletin generation for the observatory's website.
+- Generated and added new events to the MISP database using the DISARM framework, focusing on disinformation, ensuring accurate tagging and attribute classification.
 
 #### Market Intelligence Lead
 
