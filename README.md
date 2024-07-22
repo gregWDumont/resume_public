@@ -43,7 +43,7 @@
 
 *Oct 2019 - Aug 2022 | Luxembourg*
 
-- Defined project scope, objectives, and deliverables for the national cybersecurity ecosystem project, collaborating with key national bodies from private and public sectors.
+- Defined project scope, objectives, and deliverables for the national cybersecurity ecosystem project, initially collaborating with the agency CEO and under the supervision of the Ministry of the Economy.
 - Collected and structured requirements, communicated user stories, and worked with the development team to create open-source solutions.
 - Developed new projects and functionalities in line with stakeholder needs and strategic objectives.
 - Managed relationships with users and decision-makers to gather feedback, ensuring stakeholder engagement and alignment.
