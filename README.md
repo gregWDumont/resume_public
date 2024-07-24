@@ -48,16 +48,18 @@
 - Developed new projects and functionalities in line with stakeholder needs and strategic objectives.
 - Managed relationships with users and decision-makers to gather feedback, ensuring stakeholder engagement and alignment.
 - Ensured timely and accurate communication of project status, issues, and changes to all stakeholders, adjusting plans to meet milestones.
+- On behalf of my employer, I served as Stakeholders and Outreach Manager at Encryption Europe, an organization for European SMEs developing encryption solutions, managing partnerships and identifying business and lobbying opportunities for members like the Global Encryption Coalition and the FIC.
 
 #### Public Relations Specialist
 
 *June 2018 - Oct 2019 | Luxembourg*
 
-- Managed the national cybersecurity awareness campaign, doubling the number of partners year on year.
-- Collaborated with a team of three experts in content creation and event organization.
-- Created content for press releases, interviews, online media, website, and technical project documentation.
-- Developed and managed relationships with external partners, including suppliers and media outlets.
-- Worked with the CEO to define the communications strategy and monitor progress and results.
+- Led the national cybersecurity awareness campaign, doubling partner participation in both 2018 and 2019.
+- Collaborated with a team of three experts on content creation and event organization.
+- Crafted content for press releases, interviews, online media, the website, and technical project documentation.
+- Developed and maintained relationships with external partners, including suppliers and media outlets.
+- Partnered with the CEO to define communication strategies and monitor progress and outcomes.
+- Identified and positioned Luxembourg organizations and individuals in key IT and cyber events across Europe, including Cybersecurity Week Luxembourg and Paris Cyber Week.
 
 ### Vanksen
 
