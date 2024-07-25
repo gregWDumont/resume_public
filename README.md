@@ -107,9 +107,9 @@
 
 ## Education
 
-- **IRIS SUP'** - Master’s Degree in International Strategy Analysis with a specialization in Defence, Security, and Crisis Management (2021-2022)
+- **IRIS SUP'** - Master’s Degree in International Strategy with a specialization in Defence, Security, and Crisis Management (2021-2022)
 - **Université de Bretagne Occidentale** - Master’s Degree in Law, Economics, and Management with a specialization in Safety, Emergency, and Security (2021-2022)
-- **Paris ESLSCA Business School** - Master’s Degree in Strategy and Market Intelligence (2015-2016)
+- **Paris ESLSCA Business School** - Master of Business Administration specialized in Strategy and Economic Intelligence (2015-2016)
 
 ---
 
